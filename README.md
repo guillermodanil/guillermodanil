@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Guillermo Romero 👋
-
+![https://github.com/guillermodanil/guillermodanil/issues/1#issue-1868554628]
 <!--
 **guillermodanil/guillermodanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
