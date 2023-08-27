@@ -18,3 +18,20 @@ Here are some ideas to get you started:
 - 🌱 Estoy aprendiendo modelos de inteligencia artificial en python con la libreria de sklearn
 - 🤔 Quiero ayudar a las organizaciones a encontrar soluciones en sus problemas de analisis de datos y modelos predictivos de tomas de decisiones
 - 📫 puedes escribirme a mi correo guillermodanil@gmail.com o contactarme por mi linkeding: https://www.linkedin.com/in/guillermodanil/
+
+Lenguajes y herramientas utilizados:
+- Python
+- html
+- visual basic
+- SQL
+- Ms Excel
+- Ms Access
+- Power BI
+- Pandas
+
+Principales librerias y modelos:
+- sklearn 
+- matplotlib
+- lightgbm
+- catboost
+- xgboost
