@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🔭 Actualmente estoy trabajando como analista y planificador financiero
 - 🌱 Estoy aprendiendo modelos de inteligencia artificial en python con la libreria de sklearn
 - 🤔 Quiero ayudar a las organizaciones a encontrar soluciones en sus problemas de analisis de datos y modelos predictivos de tomas de decisiones
-- 📫 puedes escribirme a mi correo guillermodanil@gmail.com o contactarme por mi linkeding:
-(https://www.linkedin.com/in/guillermodanil/)
+- 📫 puedes escribirme a mi correo guillermodanil@gmail.com o contactarme por mi linkeding: https://www.linkedin.com/in/guillermodanil/
