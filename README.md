@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Guillermo Romero 👋
-![https://github.com/guillermodanil/guillermodanil/issues/1#issue-1868554628]
+![Me](https://github.com/guillermodanil/guillermodanil/issues/1#issue-1868554628)
 <!--
 **guillermodanil/guillermodanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Actualmente estoy trabajando como analista y planificador financiero
+- 🌱 Estoy aprendiendo modelos de inteligencia artificial en python con la libreria de sklearn
+- 🤔 Quiero ayudar a las organizaciones a encontrar soluciones en sus problemas de analisis de datos y modelos predictivos de tomas de decisiones
+- 📫 puedes escribirme a mi correo guillermodanil@gmail.com o contactarme por mi linkeding:
+(https://www.linkedin.com/in/guillermodanil/)
